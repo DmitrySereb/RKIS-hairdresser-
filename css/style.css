@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: url('../img/Hairdresser-tools-on-wooden-background-with-copy-space-in-center-1920x1281.jpg') no-repeat center center/cover;
+    color: white;
+    padding: 100px 0;
+    min-height: 80vh;
+}
+
+.hero h2 {
+    font-size: 2.5rem;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    font-size: 0.9rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
